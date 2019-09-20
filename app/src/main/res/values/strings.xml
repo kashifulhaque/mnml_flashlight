@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mnml flashlight.</string>
+
+    <!-- Image Content Descriptions -->
+    <string name="torch_off">Flashlight is in OFF state.</string>
+    <string name="torch_on">Flashlight is in ON state.</string>
+</resources>
