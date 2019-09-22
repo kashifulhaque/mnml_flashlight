@@ -1,6 +1,8 @@
 # mnml flashlight. (Read: Minimal Flashlight)
 > It's a flashlight. Works better when it's dark.
 
+<img src="https://drive.google.com/open?id=1tZSSQajSbTC1HtvPWq9zsJTSYCLua3Wa" width="600" />
+
 <p float="left">
   <img src="https://github.com/kashifulhaque/mnml_flashlight/raw/master/app/screenshots/torch_off.png" width="300" />
   <img src="https://github.com/kashifulhaque/mnml_flashlight/raw/master/app/screenshots/torch_on.png" width="300" />
