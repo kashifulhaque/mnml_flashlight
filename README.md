@@ -1,8 +1,6 @@
 # mnml flashlight. (Read: Minimal Flashlight)
 > It's a flashlight. Works better when it's dark.
 
-**You can download the app [here.](http://bit.ly/mnmltorch)**
-
 <img src="https://github.com/kashifulhaque/mnml_flashlight/raw/master/app/screenshots/banner.png" width="600" />
 
 <p float="left">
@@ -11,3 +9,4 @@
 </p>
 
 **You can fork and redistribute this app as your own**
+**You can download the app [here.](http://bit.ly/mnmltorch)**
