@@ -8,5 +8,6 @@
   <img src="https://github.com/kashifulhaque/mnml_flashlight/raw/master/app/screenshots/torch_on.png" width="300" />
 </p>
 
-**You can fork and redistribute this app as your own**
-**You can download the app [here.](http://bit.ly/mnmltorch)**
+**You can fork and redistribute this app as your own.**
+
+You can download the app **[here.](http://bit.ly/mnmltorch)**
