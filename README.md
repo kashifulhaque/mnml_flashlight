@@ -1,7 +1,7 @@
 # mnml flashlight. (Read: Minimal Flashlight)
 > It's a flashlight. Works better when it's dark.
 
-You can download the app [here.](http://bit.ly/mnmltorch)
+**You can download the app [here.](http://bit.ly/mnmltorch)**
 
 <img src="https://github.com/kashifulhaque/mnml_flashlight/raw/master/app/screenshots/banner.png" width="600" />
 
