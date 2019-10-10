@@ -11,3 +11,11 @@
 **You can fork and redistribute this app as your own.**
 
 You can download the app **[here.](http://bit.ly/mnmltorch)**
+
+
+Task remaining:
+
+- [x] Build a flashlight which serves its purpose.
+- [ ] Make a widget so that you won't have to frantically search for the app when it's dark.
+- [ ] Try to make a notification bar toggle. (If I become capable enough someday)
+- [ ] Win hearts. :heart:
